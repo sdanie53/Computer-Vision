@@ -4,4 +4,3 @@ This repoository contains the implementations for computer vision projects like 
 
 The pretrained model: ssd_mobilenet_v1_coco_2017_11_17 is used to classify and label objects in real time. 
 
-Use the setup.yaml file to install requirements and setup the environment. 
